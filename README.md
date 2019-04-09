@@ -1,6 +1,7 @@
 # google-timeline-kml-download
 
 Projekt na zaliczenie z przedmiotu "Języki skryptowe"
+
 Data utworzenia - Styczeń 2018
 
 Projekt musiałem wykonać bez żadnej wiedzy o Pythonie, był to mój pierwszy projekt.
@@ -14,6 +15,7 @@ skrótów internetowych do nawigacji przeglądarkowej Google maps.
 --------------------------------------------------------------------------------------------------------------------
 
 Project for studies subject "Scripting languages"
+
 Created - January 2018
 
 I had to do this project without any knowleage of Python, this was my first project.
